@@ -17,7 +17,7 @@ combined_participants <-
 write_csv(combined_participants, path = "combined_participants.csv")
 
 # List of unique institutions
-institutions <- combined_participants %>% filter(!is.na(affiliation)) %>% pull(affiliation) %>%  unique
+institutions <- combined_participants %>% arrange(affiliation) %>% filter(!is.na(affiliation)) %>% pull(affiliation) %>%  unique
 
 filec <- file("institutions.txt")
 writeLines(institutions, filec)
