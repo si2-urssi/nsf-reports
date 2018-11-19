@@ -15,7 +15,6 @@ HDF Group
 Kitware
 Lawrence Berkeley National Laboratory
 Louisiana State University
-LSU
 Massachusetts Institute of Technology
 Montana State University
 Moore Foundation
