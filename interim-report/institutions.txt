@@ -1,0 +1,56 @@
+Mozilla
+University of Illinois
+NumFOCUS
+NA
+Argonne National Laboratory
+Simpetus
+Space Telescope Science Institute
+University of California, Los Angeles
+AstroPy project/former RSE in the UK
+Purdue University
+Massachusetts Institute of Technology
+Berkeley Institute for Data Science
+Moore Foundation
+University of Washington
+Dryad Digital Repository, University of British Columbia
+Sourcery
+Lawrence Berkeley National Laboratory
+University of California, Berkeley
+University of Illinois Urbana-Champaign
+Oak Ridge National Lab
+Ohio State University
+University of Colorado
+Federation of Earth Science Information Partners (ESIP)
+Rutgers University
+University of Texas, Austin
+University of Alabama
+SHARE
+Naval Research Laboratory
+Google
+University of Chicago
+Chicago
+Oregon State University
+University of California, Davis
+Netflix
+Kitware
+CUAHSI
+National Center for Atmospheric Research (NCAR)
+West Big Data Hub
+Caltech
+University of California, Santa Cruz
+University of California, San Diego
+Princeton University
+ASCL, University of Maryland
+Radiasoft
+University of Notre Dame
+University of Hawaii
+Louisiana State University
+LSU
+Arnold Foundation
+HDF Group
+University of Wisconsin
+University of Utah
+Battelle
+The Carpentries
+Montana State University
+Colorado State University

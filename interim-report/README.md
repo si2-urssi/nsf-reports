@@ -7,6 +7,6 @@ _Also stored here for archival reasons_
 
 ## Other documents:
 
-- List of participants for both workshops
-- List of institutions that have participated
+- [List of participants for both workshops](combined_participants.csv)
+- [List of institutions that have participated](institutions.txt)
 - [bib file for any publications that we have written](papers.bib)
