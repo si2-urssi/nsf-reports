@@ -1,7 +1,6 @@
 Mozilla
 University of Illinois
 NumFOCUS
-NA
 Argonne National Laboratory
 Simpetus
 Space Telescope Science Institute
