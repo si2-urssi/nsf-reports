@@ -1,0 +1,17 @@
+---
+title: "URSSI Senior Personnel and Advisory Board"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, error = FALSE)
+suppressPackageStartupMessages(library(tidyverse))
+```
+
+```{r participants, results='asis'}
+library(pander)
+df <- read_csv("advisors-sp.csv")
+pandoc.table(df, justify = c("ll"))
+```
+ 
+ 
