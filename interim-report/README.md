@@ -7,7 +7,7 @@ _Also stored here for archival reasons_
 
 ## Other documents:
 
-- [List of participants for both workshops](combined_participants.csv)
-- [Advisors and SP](advisors-sp.csv)
+- [List of participants for both workshops](urssi_workshop_participants.pdf)
+- [Advisors and SP](urssi_sp_ab.pdf)
 - [List of institutions that have participated](institutions.txt)
 - [bib file for any publications that we have written](papers.bib)
